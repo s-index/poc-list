@@ -11,3 +11,9 @@
 ![CVE-2021-21341](https://user-images.githubusercontent.com/56715563/116986789-31fe6a80-ad09-11eb-8d97-d15702601606.gif)
 
 [CVE-2021-21341 XStream DoS](CVE-2021-21341)
+
+## CVE-2021-21349 XStream SSRF
+
+![CVE-2021-21349](https://user-images.githubusercontent.com/56715563/117110850-b6acbf80-adc1-11eb-9e4b-80e9389290c1.gif)
+
+[CVE-2021-21349 XStream SSRF](CVE-2021-21349)
