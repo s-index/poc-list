@@ -1,0 +1,9 @@
+[submodule "CVE-2020-13957"]
+	path = CVE-2020-13957
+	url = https://github.com/s-index/CVE-2020-13957.git
+[submodule "CVE-2021-21341"]
+	path = CVE-2021-21341
+	url = https://github.com/s-index/CVE-2021-21341.git
+[submodule "CVE-2021-21349"]
+	path = CVE-2021-21349
+	url = https://github.com/s-index/CVE-2021-21349.git
