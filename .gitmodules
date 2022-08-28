@@ -13,3 +13,6 @@
 [submodule "CVE-2021-20717"]
 	path = CVE-2021-20717
 	url = https://github.com/s-index/CVE-2021-20717
+[submodule "CVE-2021-43811"]
+	path = CVE-2021-43811
+	url = https://github.com/s-index/CVE-2021-43811
