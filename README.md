@@ -30,3 +30,9 @@
 
 [CVE-2021-20717 EC CUBE XSS](https://github.com/s-index/CVE-2021-20717)
 
+
+## CVE-2021-43811 awslabs/sockeye Code injection via unsafe YAML loading
+
+![cve-2021-43811](https://user-images.githubusercontent.com/56715563/185784647-fc6a885c-3032-487a-aa4f-f1535b669294.gif)
+
+[CVE-2021-43811 awslabs/sockeye Code injection via unsafe YAML loading](https://github.com/s-index/CVE-2021-43811)
