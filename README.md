@@ -2,7 +2,7 @@
 
 ## CVE-2020-13957 Apache Solr RCE
 
-![mac-demo](https://user-images.githubusercontent.com/56715563/100495858-d3015c00-3192-11eb-8813-46f94fa4f9c4.gif)
+![CVE-2020-13957](https://user-images.githubusercontent.com/56715563/100495858-d3015c00-3192-11eb-8813-46f94fa4f9c4.gif)
 
 [CVE-2020-13957 Apache Solr RCE](https://github.com/s-index/CVE-2020-13957)
 
@@ -33,6 +33,12 @@
 
 ## CVE-2021-43811 awslabs/sockeye Code injection via unsafe YAML loading
 
-![cve-2021-43811](https://user-images.githubusercontent.com/56715563/185784647-fc6a885c-3032-487a-aa4f-f1535b669294.gif)
+![CVE-2021-43811](https://user-images.githubusercontent.com/56715563/185784647-fc6a885c-3032-487a-aa4f-f1535b669294.gif)
 
 [CVE-2021-43811 awslabs/sockeye Code injection via unsafe YAML loading](https://github.com/s-index/CVE-2021-43811)
+
+## CVE-2021-41078 nameko Arbitrary code execution due to YAML deserialization
+
+![cve-2021-41078](https://user-images.githubusercontent.com/56715563/187062984-fb0c5149-92a6-4440-8731-6260465bfc2a.gif)
+
+[CVE-2021-41078 nameko Arbitrary code execution due to YAML deserialization](https://github.com/s-index/CVE-2021-41078)
